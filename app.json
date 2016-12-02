@@ -1,0 +1,16 @@
+{
+  "name": "travel-minder",
+  "description": "Travel Minder app created during hack-data hackathon hosted by Dominion Enterprises",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
